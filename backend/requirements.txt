@@ -1,0 +1,8 @@
+flask
+flask-cors
+openai
+faiss-cpu
+numpy
+scikit-learn
+python-dotenv
+requests
